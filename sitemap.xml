@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://datadoghq.dev/integrations-core/architecture/ibm_i/</loc>
+         <lastmod>2020-02-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://datadoghq.dev/integrations-core/architecture/snmp/</loc>
          <lastmod>2020-02-02</lastmod>
          <changefreq>daily</changefreq>
@@ -66,7 +71,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://datadoghq.dev/integrations-core/base/prometheus/</loc>
+         <loc>https://datadoghq.dev/integrations-core/base/openmetrics/</loc>
          <lastmod>2020-02-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -131,6 +136,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://datadoghq.dev/integrations-core/legacy/prometheus/</loc>
+         <lastmod>2020-02-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://datadoghq.dev/integrations-core/meta/cd/</loc>
          <lastmod>2020-02-02</lastmod>
          <changefreq>daily</changefreq>
@@ -162,16 +172,6 @@
     </url>
     <url>
          <loc>https://datadoghq.dev/integrations-core/process/integration-release/</loc>
-         <lastmod>2020-02-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://datadoghq.dev/integrations-core/process/agent-release/post-release/</loc>
-         <lastmod>2020-02-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://datadoghq.dev/integrations-core/process/agent-release/pre-release/</loc>
          <lastmod>2020-02-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
